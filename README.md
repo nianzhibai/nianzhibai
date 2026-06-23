@@ -22,7 +22,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📧 联系我</h3>
-      <p>Email: <a href="mailto:nianzhibai@gmail.com">nianzhibai@gmail.com</a></p>
+      <p>nianzhibai@gmail.com</p>
     </td>
   </tr>
 </table>
