@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>👨 关于我</h3>
@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 目前状态</h3>
-      <p>正在寻找实习机会</p>
+      <p>做项目</p>
     </td>
     <td width="50%" valign="top">
       <h3>📧 联系我</h3>
