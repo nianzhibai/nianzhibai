@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨 关于我
 
-<!--
-**nianzhibai/nianzhibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **nianzhibai**，一名大二学生
 
-Here are some ideas to get you started:
+喜欢网络、编程、逆向和 Vibe Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 技术栈
+- C / C++
+- Python
+- Web 逆向
+- Linux
+
+## 🚀 目前状态
+正在寻找实习机会
+
+## 📧 联系我
+Email: nianzhibai@gmail.com
+
