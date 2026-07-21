@@ -1,28 +1,15 @@
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨 关于我</h3>
-      <p>我是 <strong>nianzhibai</strong>，一名大二学生</p>
-      <p>喜欢网络、编程、逆向和 Vibe Coding</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠 技术栈</h3>
-      <ul>
-        <li>C / C++</li>
-        <li>Python</li>
-        <li>Web 逆向</li>
-        <li>Linux</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 目前状态</h3>
-      <p>做项目</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📧 联系我</h3>
-      <p>nianzhibai@gmail.com</p>
-    </td>
-  </tr>
-</table>
+## 👋 I'm nianzhibai
+![Profile Views](https://komarev.com/ghpvc/?username=nianzhibai)
+
+一个喜欢计算机，时常写点有趣、实用项目的大学生
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nianzhibai&show_icons=true&theme=tokyonight)
+
+## Languages
+- C / C++
+- Python
+
+## Fields
+- 🌐 Web开发
+- ⚙️ 后端开发
+- 🔎 逆向工程
