@@ -6,5 +6,15 @@ Build great things.
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nianzhibai&show_icons=true&theme=tokyonight)
 
 ## Fields
-- Web 开发
-- 逆向工程
+- Web Development
+- Reverse Engineering
+
+## Dream
+
+<p>
+  <img src="assets/openai.svg" alt="OpenAI" height="32" />
+  &nbsp;&nbsp;
+  <img src="assets/apple.svg" alt="Apple" height="32" />
+  &nbsp;&nbsp;
+  <img src="assets/cloudflare.svg" alt="Cloudflare" height="32" />
+</p>
