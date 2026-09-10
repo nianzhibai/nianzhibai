@@ -1,4 +1,5 @@
 ## 👋 I'm nianzhibai
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nianzhibai)
 
 Build great things.
@@ -6,10 +7,11 @@ Build great things.
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nianzhibai&show_icons=true&theme=tokyonight)
 
 ## Fields
+
 - Web Development
 - Reverse Engineering
 
-## Dream
+## Dreams
 
 <p>
   <img src="assets/openai.svg" alt="OpenAI" height="32" />
