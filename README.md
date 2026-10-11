@@ -1,10 +1,10 @@
 ## 👋 I'm nianzhibai
 
-![Profile Views](https://komarev.com/ghpvc/?username=nianzhibai)
-
 Build great things.
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nianzhibai&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nianzhibai&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nianzhibai&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Fields
 
