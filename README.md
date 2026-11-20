@@ -11,6 +11,12 @@ Build great things.
 - Web Development
 - Reverse Engineering
 
+## Interests
+
+- High-Performance and High-Bandwidth Server
+- Image Super-Resolution
+- Women
+
 ## Dreams
 
 <p>
