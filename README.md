@@ -20,6 +20,8 @@ Build great things.
 ## Dreams
 
 <p>
+  <img src="assets/claude.svg" alt="Claude" height="32" />
+  &nbsp;&nbsp;
   <img src="assets/openai.svg" alt="OpenAI" height="32" />
   &nbsp;&nbsp;
   <img src="assets/apple.svg" alt="Apple" height="32" />
